@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/daily/dailyChallenge.iml" filepath="$PROJECT_DIR$/daily/dailyChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xps/xp.iml" filepath="$PROJECT_DIR$/xps/xp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpNinja/xpNinja.iml" filepath="$PROJECT_DIR$/xpNinja/xpNinja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpgold/xpgold.iml" filepath="$PROJECT_DIR$/xpgold/xpgold.iml" />
+    </modules>
+  </component>
+</project>
